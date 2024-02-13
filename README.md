@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fent1
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Business Analytics in University of Rochester, Simon Business School
-- 📫 How to reach me: wentaoh414@gmail.com
+- 🌱 I’ve already earned Master degree in Business Analytics in University of Rochester, Simon Business School
+- 📫 How to reach me: wentaoh414@163.com
 
 <!---
 Fent1/Fent1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
